@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyễn Quốc Việt",
+        "tel": "012345678",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Pacific Rim",
+        "tel": "012345674",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "IronMan",
+        "tel": "012345676",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Duy Trần",
+        "tel": "012345672",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "Phát Phạm",
+        "tel": "012345670",
+        "permission": 3
+    },
+    {
+        "id": 6,
+        "name": "Phát Phạm",
+        "tel": "012345870",
+        "permission": 2
+    },
+    {
+        "id": 7,
+        "name": "IronMan",
+        "tel": "012345679",
+        "permission": 2
+    }
+]
